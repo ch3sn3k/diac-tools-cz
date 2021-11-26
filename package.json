@@ -1,7 +1,7 @@
 {
     "name": "diac-tools-cz",
     "displayName": "CZDiac",
-    "description": "Set of tools for working with Czech text with or without diacritic",
+    "description": "VSCode extension for working with Czech text with or without diacritic",
     "version": "1.0.1",
     "license": "MIT",
     "engines": {
