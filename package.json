@@ -3,9 +3,10 @@
     "displayName": "CZDiac",
     "description": "VSCode extension for working with Czech text with or without diacritic",
     "version": "1.0.1",
+    "repository": "https://github.com/ch3sn3k/diac-tools-cz.git",
     "license": "MIT",
     "engines": {
-        "vscode": "^1.60.0"
+        "vscode": "^1.62.0"
     },
     "categories": [
         "Formatters"
